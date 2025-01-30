@@ -91,11 +91,6 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 - [Clean Code](https://www.amazon.in/dp/B001GSTOAM)
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.in/dp/0134757599)
 
-## 📩 Newsletter
-
-- [AlgoMaster Newsletter](https://blog.algomaster.io/)
-
 ## Additional resources
 
 - [Coursera - Design Patterns](https://www.coursera.org/learn/design-patterns)
-- [Github - Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
